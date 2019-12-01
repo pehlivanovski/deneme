@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "deneme", "deneme\deneme.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme.core", "deneme.core\deneme.core.csproj", "{FE23E490-F0BF-4A38-AA2B-5E1303B5EE1B}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "deneme.businesss", "deneme.businesss\deneme.businesss.fsproj", "{F3D3941A-36C5-424D-88A6-480848B81C96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FE23E490-F0BF-4A38-AA2B-5E1303B5EE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE23E490-F0BF-4A38-AA2B-5E1303B5EE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE23E490-F0BF-4A38-AA2B-5E1303B5EE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D3941A-36C5-424D-88A6-480848B81C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D3941A-36C5-424D-88A6-480848B81C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D3941A-36C5-424D-88A6-480848B81C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D3941A-36C5-424D-88A6-480848B81C96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
